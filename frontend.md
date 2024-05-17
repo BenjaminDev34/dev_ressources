@@ -1,20 +1,21 @@
-# Best frontend tools and resources
+# Meilleurs outils et ressources pour le front-end
 
-## tools for color, font, svg, gradient, etc.
+## Outils pour les couleurs, les polices, les SVG, les dégradés, etc.
 
-*To choose your website color palette* [realtimecolors](https://realtimecolors.com/) 
+*Pour choisir la palette de couleurs de votre site web* [realtimecolors](https://realtimecolors.com/)
 
-*To choose the perfect font combination* [fontpair](https://www.fontpair.co/)
+*Pour choisir la combinaison parfaite de polices* [fontpair](https://www.fontpair.co/)
 
-*Cool svg shape generator* [haikei](https://app.haikei.app/)
+*Générateur de formes SVG sympa* [haikei](https://app.haikei.app/)
 
-*12 frontend tools, like gradient generator, page divider generator, event generator* [omatsuri](https://omatsuri.app/)
+*12 outils front-end, comme un générateur de dégradés, un générateur de séparateurs de page, un générateur d'événements* [omatsuri](https://omatsuri.app/)
 
-*awesome gradient generator* [gradient.style](https://gradient.style/)
+*Générateur de dégradés impressionnant* [gradient.style](https://gradient.style/)
 
-*Tricks for css* [cssTricks](cssTricks)
+*Astuces pour CSS* [cssTricks](https://css-tricks.com/)
 
-## Exercices and challenges
+## Exercices et défis
 
-*To improve your frontend skills* [frontendmentor](https://www.frontendmentor.io/challenges)
-*To improve your frontend skills* [frontendPractice](https://www.frontendpractice.com/)
+*Pour améliorer vos compétences en front-end* [frontendmentor](https://www.frontendmentor.io/challenges)
+
+*Pour améliorer vos compétences en front-end* [frontendPractice](https://www.frontendpractice.com/)
