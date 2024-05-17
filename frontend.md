@@ -12,6 +12,8 @@
 
 *awesome gradient generator* [gradient.style](https://gradient.style/)
 
+*Tricks for css* [cssTricks](cssTricks)
+
 ## Exercices and challenges
 
 *To improve your frontend skills* [frontendmentor](https://www.frontendmentor.io/challenges)
