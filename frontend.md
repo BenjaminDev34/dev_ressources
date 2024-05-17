@@ -17,3 +17,4 @@
 ## Exercices and challenges
 
 *To improve your frontend skills* [frontendmentor](https://www.frontendmentor.io/challenges)
+*To improve your frontend skills* [frontendPractice](https://www.frontendpractice.com/)
